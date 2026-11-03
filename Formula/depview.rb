@@ -1,8 +1,8 @@
 class Depview < Formula
   desc "Show Swift package dependency trees for packages and Xcode projects"
   homepage "https://github.com/ninikurshavishvili/depview"
-  url "https://github.com/ninikurshavishvili/depview/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "24f7085a20fd757e1a1e602793832857f3c0542a81e7cffa3c25f16069729683"
+  url "https://github.com/ninikurshavishvili/depview/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "09ee904f774d5e6b51c45d220731c91c27881bdf7f6d3b22a9bc3673d52bc23a"
   license "MIT"
 
   # swift-tools-version 6.0 needs Xcode 16; depview itself needs macOS 13.
